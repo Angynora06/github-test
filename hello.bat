@@ -6,5 +6,6 @@ ECHO Pulsa N para no
 CHOICE /c SN /m "Si o No"
 CLS
 ECHO Screen cleared
+ECHO %DATE%
 ECHO %TIME%
 pause
