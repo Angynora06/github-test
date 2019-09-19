@@ -8,5 +8,5 @@ CLS
 ECHO Screen cleared
 ECHO %DATE%
 ECHO %TIME%
-calendar
+ECHO hola
 pause
